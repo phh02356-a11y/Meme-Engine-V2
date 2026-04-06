@@ -1,13 +1,40 @@
 # PUMP-X: High-Speed Automated Trading Bot for Solana
 
-LIBERATION (LIBD) is a Solana-based meme token 
-commemorating the one-year anniversary of Trump's 
-"Liberation Day" tariff declaration on April 2, 2025 — 
-the day that shook global markets, triggered a Supreme 
-Court ruling, and became one of the most talked-about 
-economic events in modern history.
+# 🦅 TARIFF ($TRFF) 
 
-Built on pump.fun. Powered by chaos. 🦅
+> *Trump crashed the market. Again. BTC down. Stocks down. Everything down. But $TRFF is UP.*
+
+## 📉 The Macro Narrative
+Chaos is the only constant. When macroeconomic policies and sudden tariff announcements send traditional and crypto markets into a tailspin, fear becomes the dominant liquidity. **$TRFF** is built as an emotional and financial hedge against market panic. 
+
+We don't fight the chaos; we monetize it.
+
+🔥 **Buy the tariff. Sell the fear.** 🇺🇸
+
+## ⚙️ Protocol & Tokenomics
+- **Token Name:** TARIFF
+- **Ticker:** $TRFF
+- **Network:** Solana
+- **Contract Address (CA):** `[发币后在此处替换成你的代币合约地址]`
+- **Supply:** 1,000,000,000 $TRFF
+- **Tax:** 0% Buy / 0% Sell
+
+## 🛡️ Launch Security & Transparency
+To ensure a fair and rug-proof environment for all early adopters, the $TRFF launch utilizes advanced on-chain mechanics:
+- **Fair Launch:** Deployed via Pump.fun bonding curve.
+- **Anti-MEV Protection:** Initial liquidity and distribution are routed through high-priority **Jito Bundles** to prevent malicious sandwich attacks and front-running.
+- **Dev-Out Protocol:** The deployer wallet explicitly relinquishes early control to ensure decentralized community distribution. No hidden insider allocations.
+- **Liquidity Locked:** All LP tokens are automatically migrated and burned upon reaching the Raydium threshold.
+
+## 🔗 Official Links
+Ensure you are interacting with the official $TRFF smart contract.
+
+🌍 [Official Website]([此处填入你的官网链接]) 
+
+
+---
+*Disclaimer: $TRFF is a memecoin created for entertainment and market sentiment expression. It has no intrinsic value or expectation of financial return. Chaos is unpredictable.*
+
 
 ---
 
